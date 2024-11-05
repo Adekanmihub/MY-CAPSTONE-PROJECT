@@ -38,4 +38,11 @@ I explored power bi tools build and visualize a dashboard showing the sales over
 
 ### Data Analysis
  Formula used are
- 
+ ```EXCEL
+   =(F2*G2)
+  =SUMIF(D:D,"East",H:H)```
+   PIVOT TABLE
+
+### DATA VISUALIZATION
+
+
