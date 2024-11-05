@@ -37,3 +37,5 @@ With the use of pivot table , i was able to get the average sales by product, sa
 I explored power bi tools build and visualize a dashboard showing the sales overview, top-performing products, and  regional breakdowns.
 
 ### Data Analysis
+ Formula used are
+ 
