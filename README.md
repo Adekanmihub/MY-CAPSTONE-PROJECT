@@ -43,6 +43,8 @@ I explored power bi tools build and visualize a dashboard showing the sales over
   =SUMIF(D:D,"East",H:H)```
    PIVOT TABLE
 
+
+
 ### DATA VISUALIZATION
 
 
