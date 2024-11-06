@@ -36,6 +36,14 @@ Based on the data that was given for the project , some colums were missing such
 With the use of pivot table , i was able to get the average sales by product, sales by region and total sales by product.
 I explored power bi tools build and visualize a dashboard showing the sales overview, top-performing products, and  regional breakdowns.
 
+### DATA VISUALIZATION
+
+The screenshot will be uploaded before close of business on nov 8
+
+### DATA INSIGHT
+
+The dashbaord tells a story.....
+
 ### Data Analysis
  Formula used are
  ```EXCEL
@@ -45,6 +53,6 @@ I explored power bi tools build and visualize a dashboard showing the sales over
 
 
 
-### DATA VISUALIZATION
+
 
 
