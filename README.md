@@ -38,7 +38,7 @@ I explored power bi tools build and visualize a dashboard showing the sales over
 
 ### DATA VISUALIZATION
 
-The screenshot will be uploaded before close of business on nov 8
+<img width="729" alt="image" src="https://github.com/user-attachments/assets/30c4bf9b-924b-4a5f-8de3-1a362de075d9">
 
 ### DATA INSIGHT
 
