@@ -20,7 +20,7 @@ THIS IS WHERE I WANT TO PUT MY DATA ANALYSIS PROJECT
 
 ### DATA SOURCES
 
-    The primary data source is Google sheet which is a live sheet and can be refreshed.
+The primary data source is Google sheet which is a live sheet and can be refreshed.
     
 ### DATA COLLECTED
 
@@ -37,9 +37,7 @@ The dataset ( Sales Data) includes the following key column.
 - Microsoft Excel [Download here](https://www.googlesheet.com)
 
    1. pivot table
-   2. <img width="177" alt="image" src="https://github.com/user-attachments/assets/d7a5bfee-4a3a-4282-91d8-5b32e34e9b03">
-
-   3. Data validation
+   2. Data validation
    4. Table creation.
    5. Excel Formulars
    6. power querry for data cleaning,
@@ -71,28 +69,51 @@ Below are some few answers based on my exploration
 * With the use of pivot table , i was able to get the average sales by product, sales by region and total sales by product.
 * I explored power bi tools build and visualize a dashboard showing the sales overview, top-performing products, and  regional breakdowns.
 
-### DATA VISUALIZATION
+
+  ### DATA VISUALIZATION
 
 <img width="729" alt="image" src="https://github.com/user-attachments/assets/30c4bf9b-924b-4a5f-8de3-1a362de075d9">
 
+<img width="177" alt="image" src="https://github.com/user-attachments/assets/47c612fd-7cd2-4b10-aa4e-77e8ccefb47b">
+
+
 ### DATA INSIGHT
 
-The dashbaord tells a story.....
+1.TOTAL SALES/ TOTAL REVENUE BY REGION
+
+* There is a noticeable drop in the sales and revenue of north, west and east region which implies that the marketing strategies of those region should be looked into by introducing a new strategy but the reason for the drop has to be known first if it is due to man power or climate change.
+*  There is a major increase in the south , more product should be pumped there so as to get a increase in revenue and maintain a good customer relationship for growth.
+
+2. MONTHLY PRODUCT REVENUE
+
+* There is a noticable fluctuation in the revenue generated per product from march throgh december.This suggest potential challenge sales performance or economy condition on the users which affects revenue generation.
+
+3. REGIONAL PERFORMANCE
+
+* The south has the highest perfomance in sales and revenue generation hence giving a reward is not a bad idea.
+
+4. SLICER .
+
+* This helps us to filter per product and region to have an overall idea of everything going on the dashboard.
+
+
+### CONCLUSION
+
+The revenue data from march to december shows a concerning decline across most region ( west and north ) and products (socks, hat and jacket).The states the need for the company to analyze the reason for drop, address the challenges faced and implement new strategies to boost performance and also encourage the top performing region with incentives or cashback.
+
 
 ### Data Analysis
- This is where I include formula used, which are
+
+This is where I include formula used, which are
+
  ```EXCEL
    =(F2*G2)
   =SUMIF(D:D,"East",H:H)```
-
 ```SQL
    =SELECT
   =SUMIF(D:D,"East",H:H)```
-
-   PIVOT TABLE
-
+ PIVOT TABLE.
 
 
-
-
+ 
 
