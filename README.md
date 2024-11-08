@@ -1,5 +1,4 @@
 # MY-CAPSTONE-PROJECT
-THIS IS WHERE I WANT TO PUT MY DATA ANALYSIS PROJECT 
 ## PROJECT TITLE
 
 ### Sales Performance Analysis For A Retail Store
@@ -110,8 +109,10 @@ This is where I include formula used, which are
    =(F2*G2)
   =SUMIF(D:D,"East",H:H)```
 ```SQL
-   =SELECT
-  =SUMIF(D:D,"East",H:H)```
+   =SELECT PRODUCT
+    FROM  PRODUCT
+    JOIN SALES
+    GROUP BY```
  PIVOT TABLE.
 
 
